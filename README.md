@@ -5,5 +5,9 @@ LocalPlayer.state:set('proximity', {
     index = 3,
     distance = 1000000000,
     mode = "Shouting",
-}, true)
+}, true) 
+
+
 cheaters on your server can use this to talk to the entire server my script block this 
+
+change maximum proximity in config 

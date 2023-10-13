@@ -1,7 +1,7 @@
 fx_version 'bodacious'
 game 'gta5'
 
-author 'kriss'
+author 'xa$n'
 
 lua54 'yes'
 

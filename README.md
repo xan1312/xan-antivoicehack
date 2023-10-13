@@ -1,4 +1,4 @@
-# kriss-antivoicehack
+# xa$n-antivoicehack
 
 MumbleSetTalkerProximity(10000000000)
 LocalPlayer.state:set('proximity', {
